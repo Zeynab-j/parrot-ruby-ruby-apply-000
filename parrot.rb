@@ -4,4 +4,4 @@ def parrot (phrase = squawk!)
 puts "#{phrase}"
 return phrase
 end
-parrot (phrase = squawk!)
+(phrase = squawk!)
